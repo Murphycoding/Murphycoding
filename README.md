@@ -1,4 +1,7 @@
-### Hi there 👋
+### Well, hello there 👋
+
+Who am I?
+I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. I love to share knowledge with the rest of the world,
 
 <!--
 **Murphycoding/Murphycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
